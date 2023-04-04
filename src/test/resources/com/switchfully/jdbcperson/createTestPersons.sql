@@ -1,0 +1,1 @@
+insert into person values (1, 'Donald', 'Trump', 'Orange'); -- insert Donald into test database
